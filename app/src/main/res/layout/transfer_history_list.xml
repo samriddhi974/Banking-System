@@ -29,7 +29,7 @@
                 android:text="name1"
                 android:textSize="15sp"
                 android:textStyle="bold"
-                android:textColor="#00b2ff"></TextView>
+                android:textColor="#9C27B0"></TextView>
 
             <ImageView
                 android:id="@+id/arrow"
@@ -45,7 +45,7 @@
                 android:text="name2"
                 android:textSize="15sp"
                 android:textStyle="bold"
-                android:textColor="#00b2ff"></TextView>
+                android:textColor="#9C27B0"></TextView>
         </LinearLayout>
 
         <LinearLayout
@@ -77,7 +77,7 @@
                 android:text="Rs."
                 android:textSize="15sp"
                 android:textStyle="bold"
-                android:textColor="#00b2ff"></TextView>
+                android:textColor="#9C27B0"></TextView>
 
             <TextView
                 android:id="@+id/balance"
@@ -86,7 +86,7 @@
                 android:text="amount"
                 android:textSize="15sp"
                 android:textStyle="bold"
-                android:textColor="#00b2ff"></TextView>
+                android:textColor="#9C27B0"></TextView>
             <TextView
                 android:id="@+id/rupeeslash"
                 android:layout_width="wrap_content"
@@ -94,7 +94,7 @@
                 android:text=" /-"
                 android:textSize="15sp"
                 android:textStyle="bold"
-                android:textColor="#00b2ff"></TextView>
+                android:textColor="#9C27B0"></TextView>
         </LinearLayout>
 
         <TextView

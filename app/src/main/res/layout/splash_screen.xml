@@ -22,7 +22,7 @@
         android:layout_centerHorizontal="true"
         android:text="BANKING SYSTEM"
         android:textAllCaps="false"
-        android:textColor="#00b2ff"
+        android:textColor="#FF5722"
         android:textSize="20dp"
         android:textStyle="bold"
         android:visibility="invisible"></TextView>
@@ -38,20 +38,20 @@
             android:id="@+id/designed"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Designed by  "
+            android:text="Made By  "
             android:textSize="15sp"
             android:textStyle="bold"
-            android:textColor="#00b2ff"
+            android:textColor="#FF5722"
             android:visibility="invisible"></TextView>
 
         <TextView
             android:id="@+id/name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ALA V V N L MOUNIKA"
+            android:text="SAMRIDDHI SHARMA"
             android:textSize="15sp"
             android:textStyle="bold"
-            android:textColor="#00b2ff"
+            android:textColor="#FF5722"
             android:visibility="invisible"></TextView>
     </LinearLayout>
 
